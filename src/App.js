@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <div className="flex flex-col justify-center  items-center gap-10">
+      <div className="flex flex-col justify-center  items-center gap-12">
        <Header/>
         <div>
           <Balance/>

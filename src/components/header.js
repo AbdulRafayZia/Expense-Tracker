@@ -1,7 +1,7 @@
 export default function Header() {
  return(
     <>
-     <h2 className="block font-bold text-4xl ">Expense tracker</h2>
+     <h2 className="block font-semibold text-3xl ">Expense tracker</h2>
        
         
     </>
